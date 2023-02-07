@@ -1,0 +1,23 @@
+[
+    {
+        "name" :"Sena Filling Station", "id":1, "img":"https://media.istockphoto.com/id/1183809886/photo/cars-in-the-parking-lot.jpg?s=612x612&w=0&k=20&c=ti2H74Zv6vcvNpv8HuNO2xsiy7ZoLkIJOPacodfvAtY=", "location":"2 No Gate","detail":"Nasirabad Abasik","open":"24 Hours"
+    },
+    {
+        "name" :"Badsha Miah & Sons Car Parking", "id":2, "img":"https://media.istockphoto.com/id/1183809886/photo/cars-in-the-parking-lot.jpg?s=612x612&w=0&k=20&c=ti2H74Zv6vcvNpv8HuNO2xsiy7ZoLkIJOPacodfvAtY=", "location":"Tiger Pass","detail":"Near circle","open":"24 Hours"
+    },
+    {
+        "name" :"Padma Cng Fuel and Car Parking", "id":3, "img":"https://media.istockphoto.com/id/1183809886/photo/cars-in-the-parking-lot.jpg?s=612x612&w=0&k=20&c=ti2H74Zv6vcvNpv8HuNO2xsiy7ZoLkIJOPacodfvAtY=", "location":"Agrabad","detail":"400 Agrabad Road","open":"10 am-10 pm"
+    },
+    {
+        "name" :"Seba Rent a car", "id":4, "img":"https://media.istockphoto.com/id/1183809886/photo/cars-in-the-parking-lot.jpg?s=612x612&w=0&k=20&c=ti2H74Zv6vcvNpv8HuNO2xsiy7ZoLkIJOPacodfvAtY=", "location":"Halisohor","detail":"Noyabazar, Bissyoroad","open":"9 am-9 pm"
+    },
+    {
+        "name" :"K and J Convention Car park", "id":5, "img":"https://media.istockphoto.com/id/1183809886/photo/cars-in-the-parking-lot.jpg?s=612x612&w=0&k=20&c=ti2H74Zv6vcvNpv8HuNO2xsiy7ZoLkIJOPacodfvAtY=", "location":"GEC","detail":"Road no 115","open":"24 Hours"
+    },
+    {
+        "name" :"Shiuli Car Parking and Rent", "id":6, "img":"https://bd.top10place.com/img_files/115836585269393", "location":"CDA Avenue","detail":"Zakir Hossain Road","open":"24 Hours"
+    }
+  
+   
+
+]
